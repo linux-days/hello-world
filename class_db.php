@@ -1,6 +1,6 @@
 <?php
 /*
-* Filename.......: class_db.php Master wrapper
+* Filename.......: class_db.php Master wrapper Edit
 * Author.........: Troy Wolf [troy@troywolf.com]
 * Last Modified..: Date: 2005/06/24 11:05:00
 * Description....: A database class that provides methods to work with mysql,

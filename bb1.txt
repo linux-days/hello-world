@@ -1,1 +1,13 @@
+<<<<<<< Updated upstream
 ㅣㅣㅣ:ㅣㅣㅣㅣ
+=======
+
+
+<<<<<<< HEAD
+YS!
+YS2
+YS2-2
+=======
+YS!
+>>>>>>> parent of 690f6aa... YS2-1
+>>>>>>> Stashed changes

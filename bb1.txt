@@ -1,5 +1,9 @@
 
 
+<<<<<<< HEAD
 YS!
 YS2
 YS2-2
+=======
+YS
+>>>>>>> parent of b3c768e... YS1

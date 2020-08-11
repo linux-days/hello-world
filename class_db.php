@@ -408,5 +408,5 @@ class db {
 //db class
 
 
-//ok date 2020-08-11 15:00
+//ok date 2020-08-11 15:00 AA
 ?>
